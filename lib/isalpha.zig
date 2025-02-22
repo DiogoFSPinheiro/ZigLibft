@@ -1,7 +1,7 @@
 
 
 
-pub fn isalpha(char :u8) !u8
+pub fn isalpha(char :u8) bool
 {
     return ((char < 'a') or (char > 'z')) and ((char < 'A') or (char > 'Z'));
 }

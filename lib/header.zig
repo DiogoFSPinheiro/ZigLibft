@@ -1,0 +1,1 @@
+pub const isalpha = @import("isalpha.zig").isalpha;
