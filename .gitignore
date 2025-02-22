@@ -1,0 +1,10 @@
+# Ignorar arquivos de cache do Zig
+.zig-cache/
+.zig-out/
+
+# Ignorar arquivos de compilação
+zig-out/
+
+# Ignorar arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
