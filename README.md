@@ -1,8 +1,8 @@
 # ZigLibft
  A library to learn Zig
 
-ft_isalnum.c
-ft_isalpha.c
+ft_isalnum.c ok!
+ft_isalpha.c ok!
 ft_isascii.c
 ft_isdigit.c
 ft_isprint.c
