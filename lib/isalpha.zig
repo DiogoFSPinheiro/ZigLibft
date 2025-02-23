@@ -3,5 +3,5 @@
 
 pub fn isalpha(char :u8) bool
 {
-    return ((char < 'a') or (char > 'z')) and ((char < 'A') or (char > 'Z'));
+    return ((char >= 'a') and (char <= 'z')) or ((char >= 'A') and (char <= 'Z'));
 }
